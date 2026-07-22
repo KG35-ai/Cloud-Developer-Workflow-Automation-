@@ -1,0 +1,6 @@
+{
+  "name": "DevOps Automation & Incident Sentinel",
+  "description": "Cloud & developer workflow automation platform with GitHub CI/CD pipeline monitoring, Slack real-time incident alerting, AI root cause analysis, and automated rollbacks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
